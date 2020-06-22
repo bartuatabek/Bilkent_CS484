@@ -14,3 +14,8 @@
 ### Homework 3: 
 * Image Segmentation
 * Accurate segmentation of images using color and texture information.
+
+### Term Project:
+* Object Localization and Recognition
+* Develop a method for image classification and object localization.
+* The method will use a framework that is similar to the R-CNN model.
